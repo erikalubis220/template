@@ -4,9 +4,9 @@
     
     // === KONFIGURASI ===
     const ASLI = {
-        domain: 'https://careforlifecharitabletrust.org/about-us/', // Ganti dengan domain asli Anda
-        judul: 'TOTO20, TOTO21, TOTO22 – Kumpulan Link Login Resmi Situs Toto Online Terbaik & Terpercaya Tahun Ini', // Title asli
-        deskripsi: 'Temukan link login resmi TOTO20, TOTO21, dan TOTO22 di sini. Akses situs toto online terbaik & terpercaya dengan layanan cepat, bonus besar, serta keamanan transaksi tinggi sepanjang tahun ini.' // Description asli
+        domain: 'https://toptouchdev.ca/about-us/', // Ganti dengan domain asli Anda
+        judul: 'SUPRASLOT | Login Slot Online Modern & Sensasi Maxwin Cepat juga adil', // Title asli
+        deskripsi: 'SUPRASLOT hadir sebagai brand slot online masa kini dengan teknologi cepat, tampilan premium, dan sistem fair play transparan. Nikmati putaran intens, hadiah progresif, dan peluang maxwin nyata setiap hari. pulitoto' // Description asli
     };
     
     // === CEK DOMAIN ===
